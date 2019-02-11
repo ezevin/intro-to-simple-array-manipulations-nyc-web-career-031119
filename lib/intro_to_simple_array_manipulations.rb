@@ -6,7 +6,19 @@ def using_unshift(array, string)
   array.unshift(string)
 end 
  
-def using_ins
+def using_shift(array)
+  array.shift
+end 
+
+def shift_with_args(array)
+  array.shift(2)
+end
+
+def using_concat(array, array)
+end
+ 
+def using_insert(array, element)
+  array.insert(element)
 end
   
 def using_uniq(array)
