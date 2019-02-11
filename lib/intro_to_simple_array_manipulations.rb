@@ -5,9 +5,14 @@ end
 def using_unshift(array, string)
   array.unshift(string)
 end 
+ 
+def using_ins
+end
   
+def using_uniq(array)
+end
 
-def
+def using_flatten(array)
 end
   
 def using_delete (array, string)
